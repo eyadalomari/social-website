@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: eyad.alomari@yahoo.com
+Date: Mon, 11 Oct 2021 12:51:03 -0000
+Message-ID: 
+ <163395666348.4668.11579410189761192329@DESKTOP-TK5HDDT.clicks.local>
+
+Someone asked for password reset for email eyad.alomari@yahoo.com. Follow the link below:
+http://127.0.0.1:8000/account/reset/Mg/aud2p3-19149729bb3c3bd5bd87e649fe22a78d/
+Your username, in case you've forgotten: eyad
+-------------------------------------------------------------------------------
